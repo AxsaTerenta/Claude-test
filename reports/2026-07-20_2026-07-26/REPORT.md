@@ -431,6 +431,7 @@
 
 Карточку можно переслать сотруднику целиком: в ней нет сравнений с коллегами и оценок личности, только разбор его разговоров, цитаты, ссылки на сделки и план на неделю.
 
+<!--ipr:Пименова Виктория-->
 ### Пименова Виктория
 
 <!--stats-->
@@ -478,6 +479,9 @@
 
 **Сделки недели (24).** [46376814](https://eduson.amocrm.ru/leads/detail/46376814) — 88,0, категория B, [46374714](https://eduson.amocrm.ru/leads/detail/46374714) — 87,0, категория B, [46366908](https://eduson.amocrm.ru/leads/detail/46366908) — 85,0, категория A, [46370960](https://eduson.amocrm.ru/leads/detail/46370960) — 80,0, категория B, [46374624](https://eduson.amocrm.ru/leads/detail/46374624) — 78,0, категория B, [46375812](https://eduson.amocrm.ru/leads/detail/46375812) — 77,0, категория B, [46380286](https://eduson.amocrm.ru/leads/detail/46380286) — 77,0, категория A, [46369730](https://eduson.amocrm.ru/leads/detail/46369730) — 75,5, категория A, [46373936](https://eduson.amocrm.ru/leads/detail/46373936) — 73,0, категория B, [46374800](https://eduson.amocrm.ru/leads/detail/46374800) — 71,0, категория A, [46372888](https://eduson.amocrm.ru/leads/detail/46372888) — 68,0, категория A, [46378270](https://eduson.amocrm.ru/leads/detail/46378270) — 68,0, категория C, [46374792](https://eduson.amocrm.ru/leads/detail/46374792) — 67,0, категория B, [46378602](https://eduson.amocrm.ru/leads/detail/46378602) — 67,0, категория B, [46382304](https://eduson.amocrm.ru/leads/detail/46382304) — 63,0, категория B, [46367270](https://eduson.amocrm.ru/leads/detail/46367270) — 62,0, категория C, [46373618](https://eduson.amocrm.ru/leads/detail/46373618) — 61,0, категория B, [46370928](https://eduson.amocrm.ru/leads/detail/46370928) — 60,0, категория B, [46378488](https://eduson.amocrm.ru/leads/detail/46378488) — 57,0, категория B, [46382440](https://eduson.amocrm.ru/leads/detail/46382440) — 55,5, категория B, [46378540](https://eduson.amocrm.ru/leads/detail/46378540) — 55,0, категория C, [46371062](https://eduson.amocrm.ru/leads/detail/46371062) — 52,0, категория C, [46368978](https://eduson.amocrm.ru/leads/detail/46368978) — 47,0, категория C, [46369194](https://eduson.amocrm.ru/leads/detail/46369194) — 23,0, категория C.
 
+<!--/ipr-->
+
+<!--ipr:Тагиль Карина-->
 ### Тагиль Карина
 
 <!--stats-->
@@ -526,6 +530,9 @@
 
 **Сделки недели (24).** [46369826](https://eduson.amocrm.ru/leads/detail/46369826) — 93,0, категория A, [46368414](https://eduson.amocrm.ru/leads/detail/46368414) — 89,0, категория A, [46368274](https://eduson.amocrm.ru/leads/detail/46368274) — 86,0, категория B, [46382262](https://eduson.amocrm.ru/leads/detail/46382262) — 86,0, категория A, [46372318](https://eduson.amocrm.ru/leads/detail/46372318) — 85,0, категория B, [46369582](https://eduson.amocrm.ru/leads/detail/46369582) — 82,0, категория C, [46370398](https://eduson.amocrm.ru/leads/detail/46370398) — 82,0, категория A, [46378196](https://eduson.amocrm.ru/leads/detail/46378196) — 81,0, категория A, [46367824](https://eduson.amocrm.ru/leads/detail/46367824) — 80,0, категория B, [46365862](https://eduson.amocrm.ru/leads/detail/46365862) — 79,0, категория B, [46378138](https://eduson.amocrm.ru/leads/detail/46378138) — 78,0, категория A, [46380580](https://eduson.amocrm.ru/leads/detail/46380580) — 77,0, категория A, [46372314](https://eduson.amocrm.ru/leads/detail/46372314) — 76,0, категория B, [46381896](https://eduson.amocrm.ru/leads/detail/46381896) — 76,0, категория B, [46371654](https://eduson.amocrm.ru/leads/detail/46371654) — 72,0, категория B, [46370038](https://eduson.amocrm.ru/leads/detail/46370038) — 70,0, категория C, [46382124](https://eduson.amocrm.ru/leads/detail/46382124) — 70,0, категория B, [46377166](https://eduson.amocrm.ru/leads/detail/46377166) — 65,0, категория A, [46371814](https://eduson.amocrm.ru/leads/detail/46371814) — 64,0, категория B, [46378320](https://eduson.amocrm.ru/leads/detail/46378320) — 64,0, категория C, [46368358](https://eduson.amocrm.ru/leads/detail/46368358) — 54,5, категория B, [46372450](https://eduson.amocrm.ru/leads/detail/46372450) — 54,0, категория C, [46370628](https://eduson.amocrm.ru/leads/detail/46370628) — 51,0, категория C, [46370160](https://eduson.amocrm.ru/leads/detail/46370160) — 28,0, категория C.
 
+<!--/ipr-->
+
+<!--ipr:Кузнецов Артур-->
 ### Кузнецов Артур
 
 <!--stats-->
@@ -572,6 +579,9 @@
 
 **Сделки недели (19).** [46374288](https://eduson.amocrm.ru/leads/detail/46374288) — 93,0, категория B, [46373952](https://eduson.amocrm.ru/leads/detail/46373952) — 92,0, категория B, [46369942](https://eduson.amocrm.ru/leads/detail/46369942) — 91,0, категория B, [46374982](https://eduson.amocrm.ru/leads/detail/46374982) — 90,0, категория A, [46374462](https://eduson.amocrm.ru/leads/detail/46374462) — 90,0, категория B, [46365874](https://eduson.amocrm.ru/leads/detail/46365874) — 89,0, категория A, [46378342](https://eduson.amocrm.ru/leads/detail/46378342) — 87,0, категория B, [46366852](https://eduson.amocrm.ru/leads/detail/46366852) — 83,0, категория A, [46370934](https://eduson.amocrm.ru/leads/detail/46370934) — 81,0, категория B, [46368946](https://eduson.amocrm.ru/leads/detail/46368946) — 76,5, категория A, [46377318](https://eduson.amocrm.ru/leads/detail/46377318) — 76,0, категория B, [46382298](https://eduson.amocrm.ru/leads/detail/46382298) — 69,5, категория B, [46366930](https://eduson.amocrm.ru/leads/detail/46366930) — 68,0, категория —, [46381068](https://eduson.amocrm.ru/leads/detail/46381068) — 68,0, категория A, [46368384](https://eduson.amocrm.ru/leads/detail/46368384) — 66,0, категория C, [46368410](https://eduson.amocrm.ru/leads/detail/46368410) — 64,0, категория B, [46378542](https://eduson.amocrm.ru/leads/detail/46378542) — 63,0, категория B, [46378522](https://eduson.amocrm.ru/leads/detail/46378522) — 56,0, категория C, [46374368](https://eduson.amocrm.ru/leads/detail/46374368) — 48,0, категория C.
 
+<!--/ipr-->
+
+<!--ipr:Константинова Екатерина-->
 ### Константинова Екатерина
 
 <!--stats-->
@@ -617,6 +627,9 @@
 
 **Сделки недели (6).** [46372284](https://eduson.amocrm.ru/leads/detail/46372284) — 91,0, категория B, [46367212](https://eduson.amocrm.ru/leads/detail/46367212) — 86,0, категория B, [46371144](https://eduson.amocrm.ru/leads/detail/46371144) — 86,0, категория B, [46368456](https://eduson.amocrm.ru/leads/detail/46368456) — 85,0, категория A, [46368732](https://eduson.amocrm.ru/leads/detail/46368732) — 80,0, категория A, [46367534](https://eduson.amocrm.ru/leads/detail/46367534) — 73,0, категория C.
 
+<!--/ipr-->
+
+<!--ipr:Левченко Владислав-->
 ### Левченко Владислав
 
 <!--stats-->
@@ -662,6 +675,9 @@
 
 **Сделки недели (13).** [46365990](https://eduson.amocrm.ru/leads/detail/46365990) — 86,0, категория B, [46378666](https://eduson.amocrm.ru/leads/detail/46378666) — 85,0, категория B, [46377110](https://eduson.amocrm.ru/leads/detail/46377110) — 77,0, категория B, [46378668](https://eduson.amocrm.ru/leads/detail/46378668) — 76,0, категория A, [46369508](https://eduson.amocrm.ru/leads/detail/46369508) — 73,0, категория B, [46369234](https://eduson.amocrm.ru/leads/detail/46369234) — 71,0, категория B, [46366356](https://eduson.amocrm.ru/leads/detail/46366356) — 69,0, категория C, [46366814](https://eduson.amocrm.ru/leads/detail/46366814) — 69,0, категория B, [46367510](https://eduson.amocrm.ru/leads/detail/46367510) — 64,0, категория B, [46377890](https://eduson.amocrm.ru/leads/detail/46377890) — 64,0, категория B, [46367924](https://eduson.amocrm.ru/leads/detail/46367924) — 62,0, категория B, [46367166](https://eduson.amocrm.ru/leads/detail/46367166) — 55,0, категория C, [46366578](https://eduson.amocrm.ru/leads/detail/46366578) — 53,0, категория C.
 
+<!--/ipr-->
+
+<!--ipr:Тихомирова Алина-->
 ### Тихомирова Алина
 
 <!--stats-->
@@ -708,6 +724,9 @@
 
 **Сделки недели (10).** [46375008](https://eduson.amocrm.ru/leads/detail/46375008) — 85,0, категория B, [46366198](https://eduson.amocrm.ru/leads/detail/46366198) — 79,0, категория B, [46380852](https://eduson.amocrm.ru/leads/detail/46380852) — 76,0, категория C, [46380644](https://eduson.amocrm.ru/leads/detail/46380644) — 74,0, категория C, [46367258](https://eduson.amocrm.ru/leads/detail/46367258) — 66,0, категория C, [46379764](https://eduson.amocrm.ru/leads/detail/46379764) — 59,0, категория B, [46382584](https://eduson.amocrm.ru/leads/detail/46382584) — 57,0, категория B, [46367768](https://eduson.amocrm.ru/leads/detail/46367768) — 52,0, категория B, [46367246](https://eduson.amocrm.ru/leads/detail/46367246) — 49,0, категория C, [46365882](https://eduson.amocrm.ru/leads/detail/46365882) — 42,0, категория C.
 
+<!--/ipr-->
+
+<!--ipr:Сычева Татьяна-->
 ### Сычева Татьяна
 
 <!--stats-->
@@ -745,6 +764,8 @@
 **Как поднять балл.** Выводов по баллу за эту неделю не делаем: двух сделок недостаточно. К следующему отчёту нужен объём не меньше десяти клиентов, тогда показатели войдут в общий рейтинг.
 
 **Сделки недели (2).** [46367208](https://eduson.amocrm.ru/leads/detail/46367208) — 62,5, категория C, [46377400](https://eduson.amocrm.ru/leads/detail/46377400) — 62,5, категория C.
+
+<!--/ipr-->
 
 ## Сделки недели
 
