@@ -21,10 +21,7 @@
   "managers_small_sample": 1,
   "clients": 279,
   "deals_reviewed": 98,
-  "calls_after_cc_filter": 109,
-  "calls_filtered_as_cc": 6,
-  "calls_in_export": 115,
-  "deals_dropped_all_cc": 4,
+  "calls_reviewed": 109,
   "prev_week_available": false
  },
  "base": {
