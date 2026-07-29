@@ -284,7 +284,7 @@
    "deals": 34,
    "of_reviewed": 98,
    "managers": 6,
-   "examples": [
+   "deals_list": [
     {
      "deal_id": "46365862",
      "manager": "Тагиль Карина",
@@ -302,8 +302,242 @@
      "manager": "Левченко Владислав",
      "stage": "Закрытие",
      "url": "https://eduson.amocrm.ru/leads/detail/46366356"
+    },
+    {
+     "deal_id": "46366814",
+     "manager": "Левченко Владислав",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46366814"
+    },
+    {
+     "deal_id": "46367246",
+     "manager": "Тихомирова Алина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46367246"
+    },
+    {
+     "deal_id": "46367258",
+     "manager": "Тихомирова Алина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46367258"
+    },
+    {
+     "deal_id": "46367768",
+     "manager": "Тихомирова Алина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46367768"
+    },
+    {
+     "deal_id": "46368358",
+     "manager": "Тагиль Карина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46368358"
+    },
+    {
+     "deal_id": "46368410",
+     "manager": "Кузнецов Артур",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46368410"
+    },
+    {
+     "deal_id": "46368414",
+     "manager": "Тагиль Карина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46368414"
+    },
+    {
+     "deal_id": "46369194",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46369194"
+    },
+    {
+     "deal_id": "46369234",
+     "manager": "Левченко Владислав",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46369234"
+    },
+    {
+     "deal_id": "46369508",
+     "manager": "Левченко Владислав",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46369508"
+    },
+    {
+     "deal_id": "46370928",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46370928"
+    },
+    {
+     "deal_id": "46371062",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46371062"
+    },
+    {
+     "deal_id": "46371654",
+     "manager": "Тагиль Карина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46371654"
+    },
+    {
+     "deal_id": "46371814",
+     "manager": "Тагиль Карина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46371814"
+    },
+    {
+     "deal_id": "46372284",
+     "manager": "Константинова Екатерина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46372284"
+    },
+    {
+     "deal_id": "46372318",
+     "manager": "Тагиль Карина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46372318"
+    },
+    {
+     "deal_id": "46372450",
+     "manager": "Тагиль Карина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46372450"
+    },
+    {
+     "deal_id": "46372888",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46372888"
+    },
+    {
+     "deal_id": "46373618",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46373618"
+    },
+    {
+     "deal_id": "46374368",
+     "manager": "Кузнецов Артур",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46374368"
+    },
+    {
+     "deal_id": "46377890",
+     "manager": "Левченко Владислав",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46377890"
+    },
+    {
+     "deal_id": "46378138",
+     "manager": "Тагиль Карина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378138"
+    },
+    {
+     "deal_id": "46378342",
+     "manager": "Кузнецов Артур",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378342"
+    },
+    {
+     "deal_id": "46378488",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378488"
+    },
+    {
+     "deal_id": "46378522",
+     "manager": "Кузнецов Артур",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378522"
+    },
+    {
+     "deal_id": "46378540",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378540"
+    },
+    {
+     "deal_id": "46378602",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378602"
+    },
+    {
+     "deal_id": "46382124",
+     "manager": "Тагиль Карина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46382124"
+    },
+    {
+     "deal_id": "46382298",
+     "manager": "Кузнецов Артур",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46382298"
+    },
+    {
+     "deal_id": "46382304",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46382304"
+    },
+    {
+     "deal_id": "46382440",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46382440"
     }
-   ]
+   ],
+   "by_manager": {
+    "Пименова Виктория": [
+     "46369194",
+     "46370928",
+     "46371062",
+     "46372888",
+     "46373618",
+     "46378488",
+     "46378540",
+     "46378602",
+     "46382304",
+     "46382440"
+    ],
+    "Тагиль Карина": [
+     "46365862",
+     "46368358",
+     "46368414",
+     "46371654",
+     "46371814",
+     "46372318",
+     "46372450",
+     "46378138",
+     "46382124"
+    ],
+    "Кузнецов Артур": [
+     "46368410",
+     "46374368",
+     "46378342",
+     "46378522",
+     "46382298"
+    ],
+    "Константинова Екатерина": [
+     "46372284"
+    ],
+    "Левченко Владислав": [
+     "46366356",
+     "46366814",
+     "46369234",
+     "46369508",
+     "46377890"
+    ],
+    "Тихомирова Алина": [
+     "46365882",
+     "46367246",
+     "46367258",
+     "46367768"
+    ]
+   }
   },
   {
    "id": 2,
@@ -315,7 +549,7 @@
    "deals": 22,
    "of_reviewed": 98,
    "managers": 5,
-   "examples": [
+   "deals_list": [
     {
      "deal_id": "46365862",
      "manager": "Тагиль Карина",
@@ -333,8 +567,156 @@
      "manager": "Сычева Татьяна",
      "stage": "Следующий шаг",
      "url": "https://eduson.amocrm.ru/leads/detail/46367208"
+    },
+    {
+     "deal_id": "46367270",
+     "manager": "Пименова Виктория",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46367270"
+    },
+    {
+     "deal_id": "46368274",
+     "manager": "Тагиль Карина",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46368274"
+    },
+    {
+     "deal_id": "46368358",
+     "manager": "Тагиль Карина",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46368358"
+    },
+    {
+     "deal_id": "46368410",
+     "manager": "Кузнецов Артур",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46368410"
+    },
+    {
+     "deal_id": "46370928",
+     "manager": "Пименова Виктория",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46370928"
+    },
+    {
+     "deal_id": "46371062",
+     "manager": "Пименова Виктория",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46371062"
+    },
+    {
+     "deal_id": "46371814",
+     "manager": "Тагиль Карина",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46371814"
+    },
+    {
+     "deal_id": "46372888",
+     "manager": "Пименова Виктория",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46372888"
+    },
+    {
+     "deal_id": "46374462",
+     "manager": "Кузнецов Артур",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46374462"
+    },
+    {
+     "deal_id": "46374982",
+     "manager": "Кузнецов Артур",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46374982"
+    },
+    {
+     "deal_id": "46377400",
+     "manager": "Сычева Татьяна",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46377400"
+    },
+    {
+     "deal_id": "46378138",
+     "manager": "Тагиль Карина",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378138"
+    },
+    {
+     "deal_id": "46378270",
+     "manager": "Пименова Виктория",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378270"
+    },
+    {
+     "deal_id": "46378320",
+     "manager": "Тагиль Карина",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378320"
+    },
+    {
+     "deal_id": "46378540",
+     "manager": "Пименова Виктория",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378540"
+    },
+    {
+     "deal_id": "46378602",
+     "manager": "Пименова Виктория",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378602"
+    },
+    {
+     "deal_id": "46380580",
+     "manager": "Тагиль Карина",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46380580"
+    },
+    {
+     "deal_id": "46380852",
+     "manager": "Тихомирова Алина",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46380852"
+    },
+    {
+     "deal_id": "46381068",
+     "manager": "Кузнецов Артур",
+     "stage": "Следующий шаг",
+     "url": "https://eduson.amocrm.ru/leads/detail/46381068"
     }
-   ]
+   ],
+   "by_manager": {
+    "Пименова Виктория": [
+     "46367270",
+     "46370928",
+     "46371062",
+     "46372888",
+     "46378270",
+     "46378540",
+     "46378602"
+    ],
+    "Тагиль Карина": [
+     "46365862",
+     "46368274",
+     "46368358",
+     "46371814",
+     "46378138",
+     "46378320",
+     "46380580"
+    ],
+    "Кузнецов Артур": [
+     "46368410",
+     "46374462",
+     "46374982",
+     "46381068"
+    ],
+    "Тихомирова Алина": [
+     "46365882",
+     "46380852"
+    ],
+    "Сычева Татьяна": [
+     "46367208",
+     "46377400"
+    ]
+   }
   },
   {
    "id": 3,
@@ -346,7 +728,7 @@
    "deals": 21,
    "of_reviewed": 98,
    "managers": 5,
-   "examples": [
+   "deals_list": [
     {
      "deal_id": "46365882",
      "manager": "Тихомирова Алина",
@@ -364,8 +746,149 @@
      "manager": "Тихомирова Алина",
      "stage": "Работа с возражениями",
      "url": "https://eduson.amocrm.ru/leads/detail/46367258"
+    },
+    {
+     "deal_id": "46367824",
+     "manager": "Тагиль Карина",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46367824"
+    },
+    {
+     "deal_id": "46368410",
+     "manager": "Кузнецов Артур",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46368410"
+    },
+    {
+     "deal_id": "46369942",
+     "manager": "Кузнецов Артур",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46369942"
+    },
+    {
+     "deal_id": "46372314",
+     "manager": "Тагиль Карина",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46372314"
+    },
+    {
+     "deal_id": "46372450",
+     "manager": "Тагиль Карина",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46372450"
+    },
+    {
+     "deal_id": "46373618",
+     "manager": "Пименова Виктория",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46373618"
+    },
+    {
+     "deal_id": "46374624",
+     "manager": "Пименова Виктория",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46374624"
+    },
+    {
+     "deal_id": "46377318",
+     "manager": "Кузнецов Артур",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46377318"
+    },
+    {
+     "deal_id": "46377400",
+     "manager": "Сычева Татьяна",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46377400"
+    },
+    {
+     "deal_id": "46378320",
+     "manager": "Тагиль Карина",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378320"
+    },
+    {
+     "deal_id": "46378488",
+     "manager": "Пименова Виктория",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378488"
+    },
+    {
+     "deal_id": "46378522",
+     "manager": "Кузнецов Артур",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378522"
+    },
+    {
+     "deal_id": "46378542",
+     "manager": "Кузнецов Артур",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378542"
+    },
+    {
+     "deal_id": "46380852",
+     "manager": "Тихомирова Алина",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46380852"
+    },
+    {
+     "deal_id": "46382124",
+     "manager": "Тагиль Карина",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46382124"
+    },
+    {
+     "deal_id": "46382298",
+     "manager": "Кузнецов Артур",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46382298"
+    },
+    {
+     "deal_id": "46382304",
+     "manager": "Пименова Виктория",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46382304"
+    },
+    {
+     "deal_id": "46382440",
+     "manager": "Пименова Виктория",
+     "stage": "Работа с возражениями",
+     "url": "https://eduson.amocrm.ru/leads/detail/46382440"
     }
-   ]
+   ],
+   "by_manager": {
+    "Пименова Виктория": [
+     "46373618",
+     "46374624",
+     "46378488",
+     "46382304",
+     "46382440"
+    ],
+    "Тагиль Карина": [
+     "46367824",
+     "46372314",
+     "46372450",
+     "46378320",
+     "46382124"
+    ],
+    "Кузнецов Артур": [
+     "46368410",
+     "46369942",
+     "46377318",
+     "46378522",
+     "46378542",
+     "46382298"
+    ],
+    "Тихомирова Алина": [
+     "46365882",
+     "46367258",
+     "46380852"
+    ],
+    "Сычева Татьяна": [
+     "46367208",
+     "46377400"
+    ]
+   }
   },
   {
    "id": 4,
@@ -377,7 +900,7 @@
    "deals": 14,
    "of_reviewed": 98,
    "managers": 5,
-   "examples": [
+   "deals_list": [
     {
      "deal_id": "46365862",
      "manager": "Тагиль Карина",
@@ -395,8 +918,100 @@
      "manager": "Левченко Владислав",
      "stage": "Цена",
      "url": "https://eduson.amocrm.ru/leads/detail/46366356"
+    },
+    {
+     "deal_id": "46367510",
+     "manager": "Левченко Владислав",
+     "stage": "Цена",
+     "url": "https://eduson.amocrm.ru/leads/detail/46367510"
+    },
+    {
+     "deal_id": "46368358",
+     "manager": "Тагиль Карина",
+     "stage": "Цена",
+     "url": "https://eduson.amocrm.ru/leads/detail/46368358"
+    },
+    {
+     "deal_id": "46368410",
+     "manager": "Кузнецов Артур",
+     "stage": "Цена",
+     "url": "https://eduson.amocrm.ru/leads/detail/46368410"
+    },
+    {
+     "deal_id": "46369508",
+     "manager": "Левченко Владислав",
+     "stage": "Цена",
+     "url": "https://eduson.amocrm.ru/leads/detail/46369508"
+    },
+    {
+     "deal_id": "46369730",
+     "manager": "Пименова Виктория",
+     "stage": "Цена",
+     "url": "https://eduson.amocrm.ru/leads/detail/46369730"
+    },
+    {
+     "deal_id": "46372318",
+     "manager": "Тагиль Карина",
+     "stage": "Цена",
+     "url": "https://eduson.amocrm.ru/leads/detail/46372318"
+    },
+    {
+     "deal_id": "46375008",
+     "manager": "Тихомирова Алина",
+     "stage": "Цена",
+     "url": "https://eduson.amocrm.ru/leads/detail/46375008"
+    },
+    {
+     "deal_id": "46377318",
+     "manager": "Кузнецов Артур",
+     "stage": "Цена",
+     "url": "https://eduson.amocrm.ru/leads/detail/46377318"
+    },
+    {
+     "deal_id": "46378540",
+     "manager": "Пименова Виктория",
+     "stage": "Цена",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378540"
+    },
+    {
+     "deal_id": "46382298",
+     "manager": "Кузнецов Артур",
+     "stage": "Цена",
+     "url": "https://eduson.amocrm.ru/leads/detail/46382298"
+    },
+    {
+     "deal_id": "46382440",
+     "manager": "Пименова Виктория",
+     "stage": "Цена",
+     "url": "https://eduson.amocrm.ru/leads/detail/46382440"
     }
-   ]
+   ],
+   "by_manager": {
+    "Пименова Виктория": [
+     "46369730",
+     "46378540",
+     "46382440"
+    ],
+    "Тагиль Карина": [
+     "46365862",
+     "46368358",
+     "46372318"
+    ],
+    "Кузнецов Артур": [
+     "46368410",
+     "46377318",
+     "46382298"
+    ],
+    "Левченко Владислав": [
+     "46366356",
+     "46367510",
+     "46369508"
+    ],
+    "Тихомирова Алина": [
+     "46365882",
+     "46375008"
+    ]
+   }
   },
   {
    "id": 5,
@@ -408,7 +1023,7 @@
    "deals": 13,
    "of_reviewed": 98,
    "managers": 5,
-   "examples": [
+   "deals_list": [
     {
      "deal_id": "46366356",
      "manager": "Левченко Владислав",
@@ -426,8 +1041,93 @@
      "manager": "Пименова Виктория",
      "stage": "Закрытие",
      "url": "https://eduson.amocrm.ru/leads/detail/46369730"
+    },
+    {
+     "deal_id": "46369942",
+     "manager": "Кузнецов Артур",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46369942"
+    },
+    {
+     "deal_id": "46372888",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46372888"
+    },
+    {
+     "deal_id": "46373936",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46373936"
+    },
+    {
+     "deal_id": "46374982",
+     "manager": "Кузнецов Артур",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46374982"
+    },
+    {
+     "deal_id": "46375008",
+     "manager": "Тихомирова Алина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46375008"
+    },
+    {
+     "deal_id": "46375812",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46375812"
+    },
+    {
+     "deal_id": "46378138",
+     "manager": "Тагиль Карина",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378138"
+    },
+    {
+     "deal_id": "46378342",
+     "manager": "Кузнецов Артур",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378342"
+    },
+    {
+     "deal_id": "46378488",
+     "manager": "Пименова Виктория",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378488"
+    },
+    {
+     "deal_id": "46382298",
+     "manager": "Кузнецов Артур",
+     "stage": "Закрытие",
+     "url": "https://eduson.amocrm.ru/leads/detail/46382298"
     }
-   ]
+   ],
+   "by_manager": {
+    "Пименова Виктория": [
+     "46369730",
+     "46372888",
+     "46373936",
+     "46375812",
+     "46378488"
+    ],
+    "Тагиль Карина": [
+     "46378138"
+    ],
+    "Кузнецов Артур": [
+     "46369942",
+     "46374982",
+     "46378342",
+     "46382298"
+    ],
+    "Левченко Владислав": [
+     "46366356",
+     "46369508"
+    ],
+    "Тихомирова Алина": [
+     "46375008"
+    ]
+   }
   },
   {
    "id": 6,
@@ -439,7 +1139,7 @@
    "deals": 10,
    "of_reviewed": 98,
    "managers": 3,
-   "examples": [
+   "deals_list": [
     {
      "deal_id": "46367270",
      "manager": "Пименова Виктория",
@@ -457,8 +1157,68 @@
      "manager": "Левченко Владислав",
      "stage": "Порядок разговора",
      "url": "https://eduson.amocrm.ru/leads/detail/46367924"
+    },
+    {
+     "deal_id": "46368358",
+     "manager": "Тагиль Карина",
+     "stage": "Порядок разговора",
+     "url": "https://eduson.amocrm.ru/leads/detail/46368358"
+    },
+    {
+     "deal_id": "46371062",
+     "manager": "Пименова Виктория",
+     "stage": "Порядок разговора",
+     "url": "https://eduson.amocrm.ru/leads/detail/46371062"
+    },
+    {
+     "deal_id": "46372318",
+     "manager": "Тагиль Карина",
+     "stage": "Порядок разговора",
+     "url": "https://eduson.amocrm.ru/leads/detail/46372318"
+    },
+    {
+     "deal_id": "46373618",
+     "manager": "Пименова Виктория",
+     "stage": "Порядок разговора",
+     "url": "https://eduson.amocrm.ru/leads/detail/46373618"
+    },
+    {
+     "deal_id": "46377166",
+     "manager": "Тагиль Карина",
+     "stage": "Порядок разговора",
+     "url": "https://eduson.amocrm.ru/leads/detail/46377166"
+    },
+    {
+     "deal_id": "46378488",
+     "manager": "Пименова Виктория",
+     "stage": "Порядок разговора",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378488"
+    },
+    {
+     "deal_id": "46378602",
+     "manager": "Пименова Виктория",
+     "stage": "Порядок разговора",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378602"
     }
-   ]
+   ],
+   "by_manager": {
+    "Пименова Виктория": [
+     "46367270",
+     "46371062",
+     "46373618",
+     "46378488",
+     "46378602"
+    ],
+    "Тагиль Карина": [
+     "46367824",
+     "46368358",
+     "46372318",
+     "46377166"
+    ],
+    "Левченко Владислав": [
+     "46367924"
+    ]
+   }
   },
   {
    "id": 7,
@@ -470,7 +1230,7 @@
    "deals": 6,
    "of_reviewed": 98,
    "managers": 4,
-   "examples": [
+   "deals_list": [
     {
      "deal_id": "46367270",
      "manager": "Пименова Виктория",
@@ -488,8 +1248,42 @@
      "manager": "Тагиль Карина",
      "stage": "Выяснение задачи",
      "url": "https://eduson.amocrm.ru/leads/detail/46370038"
+    },
+    {
+     "deal_id": "46377400",
+     "manager": "Сычева Татьяна",
+     "stage": "Выяснение задачи",
+     "url": "https://eduson.amocrm.ru/leads/detail/46377400"
+    },
+    {
+     "deal_id": "46378320",
+     "manager": "Тагиль Карина",
+     "stage": "Выяснение задачи",
+     "url": "https://eduson.amocrm.ru/leads/detail/46378320"
+    },
+    {
+     "deal_id": "46380644",
+     "manager": "Тихомирова Алина",
+     "stage": "Выяснение задачи",
+     "url": "https://eduson.amocrm.ru/leads/detail/46380644"
     }
-   ]
+   ],
+   "by_manager": {
+    "Пименова Виктория": [
+     "46367270",
+     "46369194"
+    ],
+    "Тагиль Карина": [
+     "46370038",
+     "46378320"
+    ],
+    "Тихомирова Алина": [
+     "46380644"
+    ],
+    "Сычева Татьяна": [
+     "46377400"
+    ]
+   }
   }
  ],
  "single_observations": [

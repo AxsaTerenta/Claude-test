@@ -87,7 +87,13 @@
 **Объём выборки.** 34 сделки у 6 менеджеров из 98 разобранных.
 **Чем это грозит.** Продажи держатся на объёме входящего потока, а не на работе менеджера в разговоре.
 **Что делает руководитель группы.** Разобрать три такие сделки на собрании и отработать связку «дефицит — дедлайн — катализатор»: в каждом продающем разговоре менеджер называет причину решить сегодня и прямо предлагает оплату.
-**Примеры сделок.** [46365862](https://eduson.amocrm.ru/leads/detail/46365862) — Тагиль Карина, этап «Закрытие»; [46365882](https://eduson.amocrm.ru/leads/detail/46365882) — Тихомирова Алина, этап «Закрытие»; [46366356](https://eduson.amocrm.ru/leads/detail/46366356) — Левченко Владислав, этап «Закрытие».
+**Все сделки паттерна — 34 сделки, этап «Закрытие»:**
+- Пименова Виктория — 10 сделок: [46369194](https://eduson.amocrm.ru/leads/detail/46369194), [46370928](https://eduson.amocrm.ru/leads/detail/46370928), [46371062](https://eduson.amocrm.ru/leads/detail/46371062), [46372888](https://eduson.amocrm.ru/leads/detail/46372888), [46373618](https://eduson.amocrm.ru/leads/detail/46373618), [46378488](https://eduson.amocrm.ru/leads/detail/46378488), [46378540](https://eduson.amocrm.ru/leads/detail/46378540), [46378602](https://eduson.amocrm.ru/leads/detail/46378602), [46382304](https://eduson.amocrm.ru/leads/detail/46382304), [46382440](https://eduson.amocrm.ru/leads/detail/46382440).
+- Тагиль Карина — 9 сделок: [46365862](https://eduson.amocrm.ru/leads/detail/46365862), [46368358](https://eduson.amocrm.ru/leads/detail/46368358), [46368414](https://eduson.amocrm.ru/leads/detail/46368414), [46371654](https://eduson.amocrm.ru/leads/detail/46371654), [46371814](https://eduson.amocrm.ru/leads/detail/46371814), [46372318](https://eduson.amocrm.ru/leads/detail/46372318), [46372450](https://eduson.amocrm.ru/leads/detail/46372450), [46378138](https://eduson.amocrm.ru/leads/detail/46378138), [46382124](https://eduson.amocrm.ru/leads/detail/46382124).
+- Кузнецов Артур — 5 сделок: [46368410](https://eduson.amocrm.ru/leads/detail/46368410), [46374368](https://eduson.amocrm.ru/leads/detail/46374368), [46378342](https://eduson.amocrm.ru/leads/detail/46378342), [46378522](https://eduson.amocrm.ru/leads/detail/46378522), [46382298](https://eduson.amocrm.ru/leads/detail/46382298).
+- Константинова Екатерина — 1 сделка: [46372284](https://eduson.amocrm.ru/leads/detail/46372284).
+- Левченко Владислав — 5 сделок: [46366356](https://eduson.amocrm.ru/leads/detail/46366356), [46366814](https://eduson.amocrm.ru/leads/detail/46366814), [46369234](https://eduson.amocrm.ru/leads/detail/46369234), [46369508](https://eduson.amocrm.ru/leads/detail/46369508), [46377890](https://eduson.amocrm.ru/leads/detail/46377890).
+- Тихомирова Алина — 4 сделки: [46365882](https://eduson.amocrm.ru/leads/detail/46365882), [46367246](https://eduson.amocrm.ru/leads/detail/46367246), [46367258](https://eduson.amocrm.ru/leads/detail/46367258), [46367768](https://eduson.amocrm.ru/leads/detail/46367768).
 
 ### 2. Менеджеры не назначают точную дату следующего разговора
 
@@ -95,7 +101,12 @@
 **Объём выборки.** 22 сделки у 5 менеджеров из 98 разобранных.
 **Чем это грозит.** Сделка теряется между неделями, и повторный разговор зависит от памяти менеджера.
 **Что делает руководитель группы.** Ввести правило: разговор не заканчивается, пока менеджер не назвал день, час и способ связи и не получил согласие клиента.
-**Примеры сделок.** [46365862](https://eduson.amocrm.ru/leads/detail/46365862) — Тагиль Карина, этап «Следующий шаг»; [46365882](https://eduson.amocrm.ru/leads/detail/46365882) — Тихомирова Алина, этап «Следующий шаг»; [46367208](https://eduson.amocrm.ru/leads/detail/46367208) — Сычева Татьяна, этап «Следующий шаг».
+**Все сделки паттерна — 22 сделки, этап «Следующий шаг»:**
+- Пименова Виктория — 7 сделок: [46367270](https://eduson.amocrm.ru/leads/detail/46367270), [46370928](https://eduson.amocrm.ru/leads/detail/46370928), [46371062](https://eduson.amocrm.ru/leads/detail/46371062), [46372888](https://eduson.amocrm.ru/leads/detail/46372888), [46378270](https://eduson.amocrm.ru/leads/detail/46378270), [46378540](https://eduson.amocrm.ru/leads/detail/46378540), [46378602](https://eduson.amocrm.ru/leads/detail/46378602).
+- Тагиль Карина — 7 сделок: [46365862](https://eduson.amocrm.ru/leads/detail/46365862), [46368274](https://eduson.amocrm.ru/leads/detail/46368274), [46368358](https://eduson.amocrm.ru/leads/detail/46368358), [46371814](https://eduson.amocrm.ru/leads/detail/46371814), [46378138](https://eduson.amocrm.ru/leads/detail/46378138), [46378320](https://eduson.amocrm.ru/leads/detail/46378320), [46380580](https://eduson.amocrm.ru/leads/detail/46380580).
+- Кузнецов Артур — 4 сделки: [46368410](https://eduson.amocrm.ru/leads/detail/46368410), [46374462](https://eduson.amocrm.ru/leads/detail/46374462), [46374982](https://eduson.amocrm.ru/leads/detail/46374982), [46381068](https://eduson.amocrm.ru/leads/detail/46381068).
+- Тихомирова Алина — 2 сделки: [46365882](https://eduson.amocrm.ru/leads/detail/46365882), [46380852](https://eduson.amocrm.ru/leads/detail/46380852).
+- Сычева Татьяна — 2 сделки: [46367208](https://eduson.amocrm.ru/leads/detail/46367208), [46377400](https://eduson.amocrm.ru/leads/detail/46377400).
 
 ### 3. Менеджеры принимают возражение, не выяснив его причину
 
@@ -103,7 +114,12 @@
 **Объём выборки.** 21 сделка у 5 менеджеров из 98 разобранных.
 **Чем это грозит.** Сделка откладывается без проверенной причины, и следующего касания по существу не происходит.
 **Что делает руководитель группы.** Отработать на собрании короткий разбор ответа «я подумаю»: три уточняющих вопроса о причине и возврат к решению в том же разговоре.
-**Примеры сделок.** [46365882](https://eduson.amocrm.ru/leads/detail/46365882) — Тихомирова Алина, этап «Работа с возражениями»; [46367208](https://eduson.amocrm.ru/leads/detail/46367208) — Сычева Татьяна, этап «Работа с возражениями»; [46367258](https://eduson.amocrm.ru/leads/detail/46367258) — Тихомирова Алина, этап «Работа с возражениями».
+**Все сделки паттерна — 21 сделка, этап «Работа с возражениями»:**
+- Пименова Виктория — 5 сделок: [46373618](https://eduson.amocrm.ru/leads/detail/46373618), [46374624](https://eduson.amocrm.ru/leads/detail/46374624), [46378488](https://eduson.amocrm.ru/leads/detail/46378488), [46382304](https://eduson.amocrm.ru/leads/detail/46382304), [46382440](https://eduson.amocrm.ru/leads/detail/46382440).
+- Тагиль Карина — 5 сделок: [46367824](https://eduson.amocrm.ru/leads/detail/46367824), [46372314](https://eduson.amocrm.ru/leads/detail/46372314), [46372450](https://eduson.amocrm.ru/leads/detail/46372450), [46378320](https://eduson.amocrm.ru/leads/detail/46378320), [46382124](https://eduson.amocrm.ru/leads/detail/46382124).
+- Кузнецов Артур — 6 сделок: [46368410](https://eduson.amocrm.ru/leads/detail/46368410), [46369942](https://eduson.amocrm.ru/leads/detail/46369942), [46377318](https://eduson.amocrm.ru/leads/detail/46377318), [46378522](https://eduson.amocrm.ru/leads/detail/46378522), [46378542](https://eduson.amocrm.ru/leads/detail/46378542), [46382298](https://eduson.amocrm.ru/leads/detail/46382298).
+- Тихомирова Алина — 3 сделки: [46365882](https://eduson.amocrm.ru/leads/detail/46365882), [46367258](https://eduson.amocrm.ru/leads/detail/46367258), [46380852](https://eduson.amocrm.ru/leads/detail/46380852).
+- Сычева Татьяна — 2 сделки: [46367208](https://eduson.amocrm.ru/leads/detail/46367208), [46377400](https://eduson.amocrm.ru/leads/detail/46377400).
 
 ### 4. Менеджеры не называют цену в продающем разговоре
 
@@ -111,7 +127,12 @@
 **Объём выборки.** 14 сделок у 5 менеджеров из 98 разобранных.
 **Чем это грозит.** Решение о покупке принимается вне разговора, и менеджер теряет возможность повлиять на выбор.
 **Что делает руководитель группы.** Проверять в записях: цена и размер скидки названы в первом же продающем разговоре.
-**Примеры сделок.** [46365862](https://eduson.amocrm.ru/leads/detail/46365862) — Тагиль Карина, этап «Цена»; [46365882](https://eduson.amocrm.ru/leads/detail/46365882) — Тихомирова Алина, этап «Цена»; [46366356](https://eduson.amocrm.ru/leads/detail/46366356) — Левченко Владислав, этап «Цена».
+**Все сделки паттерна — 14 сделок, этап «Цена»:**
+- Пименова Виктория — 3 сделки: [46369730](https://eduson.amocrm.ru/leads/detail/46369730), [46378540](https://eduson.amocrm.ru/leads/detail/46378540), [46382440](https://eduson.amocrm.ru/leads/detail/46382440).
+- Тагиль Карина — 3 сделки: [46365862](https://eduson.amocrm.ru/leads/detail/46365862), [46368358](https://eduson.amocrm.ru/leads/detail/46368358), [46372318](https://eduson.amocrm.ru/leads/detail/46372318).
+- Кузнецов Артур — 3 сделки: [46368410](https://eduson.amocrm.ru/leads/detail/46368410), [46377318](https://eduson.amocrm.ru/leads/detail/46377318), [46382298](https://eduson.amocrm.ru/leads/detail/46382298).
+- Левченко Владислав — 3 сделки: [46366356](https://eduson.amocrm.ru/leads/detail/46366356), [46367510](https://eduson.amocrm.ru/leads/detail/46367510), [46369508](https://eduson.amocrm.ru/leads/detail/46369508).
+- Тихомирова Алина — 2 сделки: [46365882](https://eduson.amocrm.ru/leads/detail/46365882), [46375008](https://eduson.amocrm.ru/leads/detail/46375008).
 
 ### 5. Менеджеры не спрашивают, каким способом клиент готов оплатить
 
@@ -119,7 +140,12 @@
 **Объём выборки.** 13 сделок у 5 менеджеров из 98 разобранных.
 **Чем это грозит.** Согласие клиента не переходит в оплату и теряется до следующего касания.
 **Что делает руководитель группы.** Закрепить в сценарии разговора: сразу после согласия менеджер спрашивает о способе оплаты и оформляет заказ в этом же разговоре.
-**Примеры сделок.** [46366356](https://eduson.amocrm.ru/leads/detail/46366356) — Левченко Владислав, этап «Закрытие»; [46369508](https://eduson.amocrm.ru/leads/detail/46369508) — Левченко Владислав, этап «Закрытие»; [46369730](https://eduson.amocrm.ru/leads/detail/46369730) — Пименова Виктория, этап «Закрытие».
+**Все сделки паттерна — 13 сделок, этап «Закрытие»:**
+- Пименова Виктория — 5 сделок: [46369730](https://eduson.amocrm.ru/leads/detail/46369730), [46372888](https://eduson.amocrm.ru/leads/detail/46372888), [46373936](https://eduson.amocrm.ru/leads/detail/46373936), [46375812](https://eduson.amocrm.ru/leads/detail/46375812), [46378488](https://eduson.amocrm.ru/leads/detail/46378488).
+- Тагиль Карина — 1 сделка: [46378138](https://eduson.amocrm.ru/leads/detail/46378138).
+- Кузнецов Артур — 4 сделки: [46369942](https://eduson.amocrm.ru/leads/detail/46369942), [46374982](https://eduson.amocrm.ru/leads/detail/46374982), [46378342](https://eduson.amocrm.ru/leads/detail/46378342), [46382298](https://eduson.amocrm.ru/leads/detail/46382298).
+- Левченко Владислав — 2 сделки: [46366356](https://eduson.amocrm.ru/leads/detail/46366356), [46369508](https://eduson.amocrm.ru/leads/detail/46369508).
+- Тихомирова Алина — 1 сделка: [46375008](https://eduson.amocrm.ru/leads/detail/46375008).
 
 ### 6. Менеджеры не объясняют клиенту порядок разговора
 
@@ -127,7 +153,10 @@
 **Объём выборки.** 10 сделок у 3 менеджеров из 98 разобранных.
 **Чем это грозит.** Управление разговором переходит к клиенту, и выяснение задачи сворачивается до анкеты.
 **Что делает руководитель группы.** Отработать вступление: в первые полторы минуты менеджер называет порядок разговора и получает согласие клиента.
-**Примеры сделок.** [46367270](https://eduson.amocrm.ru/leads/detail/46367270) — Пименова Виктория, этап «Порядок разговора»; [46367824](https://eduson.amocrm.ru/leads/detail/46367824) — Тагиль Карина, этап «Порядок разговора»; [46367924](https://eduson.amocrm.ru/leads/detail/46367924) — Левченко Владислав, этап «Порядок разговора».
+**Все сделки паттерна — 10 сделок, этап «Порядок разговора»:**
+- Пименова Виктория — 5 сделок: [46367270](https://eduson.amocrm.ru/leads/detail/46367270), [46371062](https://eduson.amocrm.ru/leads/detail/46371062), [46373618](https://eduson.amocrm.ru/leads/detail/46373618), [46378488](https://eduson.amocrm.ru/leads/detail/46378488), [46378602](https://eduson.amocrm.ru/leads/detail/46378602).
+- Тагиль Карина — 4 сделки: [46367824](https://eduson.amocrm.ru/leads/detail/46367824), [46368358](https://eduson.amocrm.ru/leads/detail/46368358), [46372318](https://eduson.amocrm.ru/leads/detail/46372318), [46377166](https://eduson.amocrm.ru/leads/detail/46377166).
+- Левченко Владислав — 1 сделка: [46367924](https://eduson.amocrm.ru/leads/detail/46367924).
 
 ### 7. Менеджеры выясняют только опыт клиента, но не его задачу
 
@@ -135,7 +164,11 @@
 **Объём выборки.** 6 сделок у 4 менеджеров из 98 разобранных.
 **Чем это грозит.** Клиент не понимает, за что платит, и выбирает по стоимости.
 **Что делает руководитель группы.** Контролировать три открытых вопроса до показа программы: чем клиент занят сейчас, какого результата хочет, какой триггер заставляет решать вопрос сегодня.
-**Примеры сделок.** [46367270](https://eduson.amocrm.ru/leads/detail/46367270) — Пименова Виктория, этап «Выяснение задачи»; [46369194](https://eduson.amocrm.ru/leads/detail/46369194) — Пименова Виктория, этап «Выяснение задачи»; [46370038](https://eduson.amocrm.ru/leads/detail/46370038) — Тагиль Карина, этап «Выяснение задачи».
+**Все сделки паттерна — 6 сделок, этап «Выяснение задачи»:**
+- Пименова Виктория — 2 сделки: [46367270](https://eduson.amocrm.ru/leads/detail/46367270), [46369194](https://eduson.amocrm.ru/leads/detail/46369194).
+- Тагиль Карина — 2 сделки: [46370038](https://eduson.amocrm.ru/leads/detail/46370038), [46378320](https://eduson.amocrm.ru/leads/detail/46378320).
+- Тихомирова Алина — 1 сделка: [46380644](https://eduson.amocrm.ru/leads/detail/46380644).
+- Сычева Татьяна — 1 сделка: [46377400](https://eduson.amocrm.ru/leads/detail/46377400).
 
 ### Единичные наблюдения
 
