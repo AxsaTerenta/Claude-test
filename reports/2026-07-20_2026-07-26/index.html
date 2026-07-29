@@ -33,6 +33,19 @@ body{margin:0;background:var(--ed-beige);color:var(--ed-ink);font-family:var(--f
 .toc a{padding:6px 11px;border:1px solid var(--ed-line);border-radius:999px;color:var(--ed-ink);text-decoration:none;white-space:nowrap;font-weight:600}
 .toc a:hover{border-color:var(--ed-violet);background:var(--ed-violet-soft);color:var(--ed-violet-deep)}
 .book-section{padding:64px 0 8px;scroll-margin-top:70px}
+details.book-section{padding:28px 0 8px}
+details.book-section>summary{display:block;cursor:pointer;list-style:none;padding:0;position:relative}
+details.book-section>summary::-webkit-details-marker{display:none}
+details.book-section>summary .section-head{margin-bottom:0;padding-bottom:22px;align-items:center}
+details.book-section .sec-toggle{position:absolute;right:0;top:50%;transform:translateY(-50%);display:inline-flex;align-items:center;gap:10px;min-height:44px;padding:0 18px;border:var(--border);border-radius:999px;background:var(--ed-paper);font:700 12px/1 var(--font-mono);text-transform:uppercase;letter-spacing:.05em}
+details.book-section .sec-toggle::before{content:"Развернуть"}
+details.book-section[open] .sec-toggle::before{content:"Свернуть"}
+details.book-section .sec-toggle i{display:block;width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-top:8px solid var(--ed-ink);transition:transform 150ms ease}
+details.book-section[open] .sec-toggle i{transform:rotate(180deg)}
+details.book-section>summary:hover .sec-toggle{background:var(--ed-yellow)}
+details.book-section[open]>summary .section-head{margin-bottom:34px}
+@media (max-width:860px){details.book-section .sec-toggle{position:static;transform:none;margin-top:14px;transform:none}}
+@media print{details.book-section .sec-toggle{display:none}}
 .section-head{display:grid;grid-template-columns:72px minmax(0,1fr);gap:24px;margin-bottom:34px;padding-bottom:26px;border-bottom:var(--border)}
 .section-index{display:grid;width:64px;height:64px;place-items:center;border:var(--border);border-radius:50%;background:var(--ed-yellow);font:800 18px/1 var(--font-display)}
 .section-eyebrow{margin:2px 0 14px;color:var(--ed-muted);font:600 11px/1 var(--font-mono);letter-spacing:.08em;text-transform:uppercase}
@@ -126,8 +139,8 @@ td .tag{font-size:10px;letter-spacing:.02em;white-space:normal;text-align:center
 </tbody></table></div>
 <p class="note">Строка «Всего» в выгрузке — это итог по семи менеджерам команды. Отдельной среднего по отделу в данных нет, поэтому все отклонения считаются от итога команды.<br>Границы недели: по выручке менеджер считается сильным при выручке на клиента не ниже 8 481 ₽, по качеству — при балле не ниже 69,0.</p>
 </section>
-<section class="book-section" id="расхождение-балла-и-результата">
-<div class="section-head"><div class="section-index">03</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 03</p><h2>Расхождение балла и результата</h2></div></div>
+<details class="book-section" id="расхождение-балла-и-результата">
+<summary><div class="section-head"><div class="section-index">03</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 03</p><h2>Расхождение балла и результата</h2></div></div><span class="sec-toggle"><i></i></span></summary>
 <p>Балл качества и выручка на этой неделе разошлись у четырёх менеджеров из шести зачётных. Это не ошибка оценки: балл считает выполнение этапов разговора, а выручка показывает, довёл ли менеджер клиента до решения. Менеджер может пройти все этапы и не предложить оплату — балл будет высоким, выручка низкой. Может пропустить служебные этапы и закрыть сделку в первом разговоре — балл просядет, выручка вырастет. Поэтому ниже по каждому случаю разобрано, что говорит балл, что говорит выручка и на каком этапе разговора возникает разрыв.</p>
 <h3 id="пименова-виктория-оценка-окк-результат-">Пименова Виктория — оценка «ОКК↓ результат↑»</h3>
 <div class="tiles"><div class="tile"><div class="tk">Балл качества</div><div class="tv">66,5</div><div class="td neg">−4,5</div></div><div class="tile"><div class="tk">Выручка на клиента</div><div class="tv">17 037 ₽</div><div class="td pos">+91 %</div></div><div class="tile"><div class="tk">Конверсия C2</div><div class="tv">25,0 %</div><div class="td pos">+12,1 п.п.</div></div><div class="tile"><div class="tk">Клиенты</div><div class="tv">48</div></div><div class="tile"><div class="tk">Продажи</div><div class="tv">12</div></div><div class="tile"><div class="tk">Разобрано сделок</div><div class="tv">24</div></div></div>
@@ -160,9 +173,9 @@ td .tag{font-size:10px;letter-spacing:.02em;white-space:normal;text-align:center
 <h3 id="как-читать-эти-четыре-случая">Как читать эти четыре случая</h3>
 <p>Два случая противоположны по смыслу. У Пименовой балл ниже среднего по группе, а выручка выше — значит, оценка недооценивает менеджера, и её приёмы стоит переносить на команду, а не исправлять. У Кузнецова, Константиновой и Левченко балл выше или на уровне среднего по группе, а выручка ниже — значит, этапы разговора выполняются, но ни один из них не доводит клиента до решения. Для команды это означает одно: рост балла сам по себе выручку не увеличит, пока в разговоре не появится предложение оплатить.</p>
 <p>Отдельно по Кузнецову: его выручка на клиента составила 8 439 рублей при границе 8 481 рубль, то есть ниже среднего по группе на 5,5 процента — это пограничный случай, а не провал. В список отстающих он не выносится, потому что качество его разговоров выше среднего по команде, а потери сосредоточены на одном этапе.</p>
-</section>
-<section class="book-section" id="почему-результат-ниже-среднего-по-группе">
-<div class="section-head"><div class="section-index">04</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 04</p><h2>Почему результат ниже среднего по группе</h2></div></div>
+</details>
+<details class="book-section" id="почему-результат-ниже-среднего-по-группе">
+<summary><div class="section-head"><div class="section-index">04</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 04</p><h2>Почему результат ниже среднего по группе</h2></div></div><span class="sec-toggle"><i></i></span></summary>
 <p>Раздел собирается автоматически для менеджеров, у которых выручка на клиента ниже среднего по группе более чем на 30 процентов и при этом клиентов не меньше десяти. На этой неделе под правило попали 3 менеджера. По каждому разобрано, что можно объяснить входящим потоком, а что — работой в разговоре, и как проверить вывод.</p>
 <p>Ориентиры группы для сравнения: сделка длится 13,7 минуты, отдельный разговор — 12,6 минуты, до названной цены доходят 86 процентов сделок, оплата не предложена в 35 процентах, полный цикл продажи собран в 21 процентах, повторный разговор состоялся в 11 процентах.</p>
 <h3 id="константинова-екатерина">Константинова Екатерина</h3>
@@ -237,13 +250,13 @@ td .tag{font-size:10px;letter-spacing:.02em;white-space:normal;text-align:center
 <li>Проверить, хватает ли ей потока: девятнадцать клиентов — нижняя граница для устойчивого результата.</li>
 </ul>
 <p>У Сычевой Татьяны выручка на клиента также ниже среднего по группе, но разбор для неё не собирается: семь клиентов и две сделки не позволяют отделить работу менеджера от случайности.</p>
-</section>
-<section class="book-section" id="картина-недели">
-<div class="section-head"><div class="section-index">05</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 05</p><h2>Картина недели</h2></div></div>
+</details>
+<details class="book-section" id="картина-недели">
+<summary><div class="section-head"><div class="section-index">05</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 05</p><h2>Картина недели</h2></div></div><span class="sec-toggle"><i></i></span></summary>
 <p><strong>Образец недели.</strong> Тагиль Карина: выручка на клиента 11 195 ₽ (на 25 процентов выше среднего по группе), конверсия 16,4 % (на 3,5 п.п. выше среднего по группе), балл 72,6. Восемь её сделок прошли полный цикл продажи, поэтому их стоит разбирать с командой как образец.<br><strong>Зона риска.</strong> Тихомирова Алина: выручка на клиента 2 651 ₽ (на 70 процентов ниже среднего по группе), конверсия 5,3 % (на 7,6 п.п. ниже среднего по группе), балл 63,9.<br><strong>Вне оценки.</strong> Сычева Татьяна работала с 7 клиентами, разобрано 2 сделки, поэтому её показатели не интерпретируются.<br><strong>Без работы за период.</strong> Таких менеджеров нет: все семь работали с клиентами и вели разговоры.<br><strong>Сильные и слабые блоки качества.</strong> Поблочная оценка разговоров не передана, поэтому сравнить блоки между собой невозможно.</p>
-</section>
-<section class="book-section" id="этапы-разговора-по-менеджерам">
-<div class="section-head"><div class="section-index">06</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 06</p><h2>Этапы разговора по менеджерам</h2></div></div>
+</details>
+<details class="book-section" id="этапы-разговора-по-менеджерам">
+<summary><div class="section-head"><div class="section-index">06</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 06</p><h2>Этапы разговора по менеджерам</h2></div></div><span class="sec-toggle"><i></i></span></summary>
 <p>Оценка по двенадцати блокам качества в выгрузке отсутствует, поэтому таблица блоков не строится. Ниже приведена таблица, посчитанная из разбора сделок: в каждой ячейке — доля сделок менеджера, где этап разговора не доведён до конца.</p>
 <div class="tw"><table><thead><tr><th>Этап разговора</th><th>Пименова</th><th>Тагиль</th><th>Кузнецов</th><th>Константинова</th><th>Левченко</th><th>Тихомирова</th><th>Сычева</th><th>Вся команда</th></tr></thead><tbody>
 <tr><td>Предложение оплаты</td><td class="n">42 %</td><td class="n">38 %</td><td class="n">26 %</td><td class="n">17 %</td><td class="n">38 %</td><td class="n">40 %</td><td class="n">0 %</td><td class="n">35 %</td></tr>
@@ -259,9 +272,9 @@ td .tag{font-size:10px;letter-spacing:.02em;white-space:normal;text-align:center
 <tr><td>Разобрано сделок</td><td class="n">24</td><td class="n">24</td><td class="n">19</td><td class="n">6</td><td class="n">13</td><td class="n">10</td><td class="n">2</td><td class="n">98</td></tr>
 </tbody></table></div>
 <p>Сильнее всего отстают от команды следующие этапы: работа с возражениями — Кузнецов; объяснение порядка разговора — Пименова.<br>Показатели Сычевой в таблице приведены для полноты, но не интерпретируются: у неё 7 клиентов и 2 разобранные сделки.</p>
-</section>
-<section class="book-section" id="системные-паттерны">
-<div class="section-head"><div class="section-index">07</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 07</p><h2>Системные паттерны</h2></div></div>
+</details>
+<details class="book-section" id="системные-паттерны">
+<summary><div class="section-head"><div class="section-index">07</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 07</p><h2>Системные паттерны</h2></div></div><span class="sec-toggle"><i></i></span></summary>
 <p>Паттерн считается системным, если он подтверждён более чем четырьмя сделками. Ниже каждый паттерн сопровождается объёмом выборки.</p>
 <h3 id="1-менеджеры-не-доводят-разговор-до-попытки-оплаты">1. Менеджеры не доводят разговор до попытки оплаты</h3>
 <div class="tiles"><div class="tile"><div class="tk">Сделок с признаком</div><div class="tv">34</div></div><div class="tile"><div class="tk">Менеджеров</div><div class="tv">6</div></div><div class="tile"><div class="tk">Доля разобранных сделок</div><div class="tv">35 %</div></div><div class="tile"><div class="tk">Этап разговора</div><div class="tv">Закрытие</div></div></div>
@@ -343,15 +356,15 @@ td .tag{font-size:10px;letter-spacing:.02em;white-space:normal;text-align:center
 <li>Менеджер не сделал апсейл, хотя клиент прямо спросил о смежной теме. Наблюдение встретилось в 1 сделке у 1 менеджера: <a href="https://eduson.amocrm.ru/leads/detail/46366814" target="_blank" rel="noopener">46366814</a>. Наблюдение единичное и на всю команду не переносится.</li>
 <li>Менеджер не повторил вслух задачу клиента перед показом программы. Наблюдение встретилось в 3 сделках у 2 менеджеров: <a href="https://eduson.amocrm.ru/leads/detail/46367270" target="_blank" rel="noopener">46367270</a>. Наблюдение единичное и на всю команду не переносится.</li>
 </ul>
-</section>
-<section class="book-section" id="приоритеты-команды-на-следующую-неделю">
-<div class="section-head"><div class="section-index">08</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 08</p><h2>Приоритеты команды на следующую неделю</h2></div></div>
+</details>
+<details class="book-section" id="приоритеты-команды-на-следующую-неделю">
+<summary><div class="section-head"><div class="section-index">08</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 08</p><h2>Приоритеты команды на следующую неделю</h2></div></div><span class="sec-toggle"><i></i></span></summary>
 <p class="kv"><span class="k">1. Довести разговор до попытки оплаты</span><span class="v">Паттерн 1: попытки закрыть сделку нет в 34 сделках из 98 у шести менеджеров. Ожидаемый результат: конверсия команды C2 вырастет на 3 процентных пункта за две недели. Разобрать с командой: <a href="https://eduson.amocrm.ru/leads/detail/46370928" target="_blank" rel="noopener">46370928</a>, <a href="https://eduson.amocrm.ru/leads/detail/46366814" target="_blank" rel="noopener">46366814</a>, <a href="https://eduson.amocrm.ru/leads/detail/46378522" target="_blank" rel="noopener">46378522</a>.</span></p>
 <p class="kv"><span class="k">2. Выяснять причину ответа «я подумаю»</span><span class="v">Паттерн 3: возражение осталось без ответа в 21 сделке из 98 у пяти менеджеров. Ожидаемый результат: доля сделок, где возражение осталось без ответа снизится с 21 до 10 процентов за две недели. Разобрать с командой: <a href="https://eduson.amocrm.ru/leads/detail/46369942" target="_blank" rel="noopener">46369942</a>, <a href="https://eduson.amocrm.ru/leads/detail/46368410" target="_blank" rel="noopener">46368410</a>, <a href="https://eduson.amocrm.ru/leads/detail/46367258" target="_blank" rel="noopener">46367258</a>.</span></p>
 <p class="kv"><span class="k">3. Назначать точную дату следующего разговора</span><span class="v">Паттерн 2: день и час не назначены в 22 сделках из 98 у пяти менеджеров. Ожидаемый результат: доля сделок без назначенной даты снизится с 22 до 5 процентов за две недели. Разобрать с командой: <a href="https://eduson.amocrm.ru/leads/detail/46365862" target="_blank" rel="noopener">46365862</a>, <a href="https://eduson.amocrm.ru/leads/detail/46368274" target="_blank" rel="noopener">46368274</a>, <a href="https://eduson.amocrm.ru/leads/detail/46374792" target="_blank" rel="noopener">46374792</a>.</span></p>
-</section>
-<section class="book-section" id="лучшие-практики-недели">
-<div class="section-head"><div class="section-index">09</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 09</p><h2>Лучшие практики недели</h2></div></div>
+</details>
+<details class="book-section" id="лучшие-практики-недели">
+<summary><div class="section-head"><div class="section-index">09</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 09</p><h2>Лучшие практики недели</h2></div></div><span class="sec-toggle"><i></i></span></summary>
 <p>Лучший результат недели показала Пименова Виктория, лучший баланс качества и выручки — Тагиль Карина. Ниже разобрано, чем именно их разговоры отличаются от остальной команды и какие приёмы можно взять в работу сразу.</p>
 <p><strong>Что показывают цифры</strong></p>
 <ul>
@@ -380,9 +393,9 @@ td .tag{font-size:10px;letter-spacing:.02em;white-space:normal;text-align:center
 <blockquote class="say"><p>«Вам не нужно ждать окончания курса. Вы, как узнаёте, сразу идёте применяете. За счёт чего к окончанию курса у вас уже будет виден результат.»</p></blockquote>
 <p>Что это даёт: Клиент покупает изменение в своей работе, а не доступ к урокам, и в этой сделке сам выбрал более дорогой тариф.</p>
 <p class="kv"><span class="k">Что делает руководитель группы</span><span class="v">Руководителю группы: взять три записи — 46369826, 46374800 и 46378196 — и разобрать их на собрании по одному приёму на каждую. Остальным менеджерам повторить вступление Тагиль и завершение Пименовой на трёх ближайших сделках, после чего сверить долю разговоров с предложением оформить.</span></p>
-</section>
-<section class="book-section" id="индивидуальные-планы-развития">
-<div class="section-head"><div class="section-index">10</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 10</p><h2>Индивидуальные планы развития</h2></div></div>
+</details>
+<details class="book-section" id="индивидуальные-планы-развития">
+<summary><div class="section-head"><div class="section-index">10</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 10</p><h2>Индивидуальные планы развития</h2></div></div><span class="sec-toggle"><i></i></span></summary>
 <p>Карточку можно переслать сотруднику целиком: в ней нет сравнений с коллегами и оценок личности, только разбор его разговоров, цитаты, ссылки на сделки и план на неделю.</p>
 <article class="ipr" id="ipr-пименова-виктория" data-name="Пименова Виктория">
 <div class="h3row"><h3 id="пименова-виктория">Пименова Виктория</h3><button class="dl-btn" type="button" onclick="exportIpr(this)"><span>↓</span>Выгрузить ИПР</button></div>
@@ -570,9 +583,9 @@ td .tag{font-size:10px;letter-spacing:.02em;white-space:normal;text-align:center
 <p class="kv"><span class="k">Как поднять балл</span><span class="v">Выводов по баллу за эту неделю не делаем: двух сделок недостаточно. К следующему отчёту нужен объём не меньше десяти клиентов, тогда показатели войдут в общий рейтинг.</span></p>
 <p class="kv"><span class="k">Сделки недели (2)</span><span class="v"><a href="https://eduson.amocrm.ru/leads/detail/46367208" target="_blank" rel="noopener">46367208</a> — 62,5, категория C, <a href="https://eduson.amocrm.ru/leads/detail/46377400" target="_blank" rel="noopener">46377400</a> — 62,5, категория C.</span></p>
 </article>
-</section>
-<section class="book-section" id="сделки-недели">
-<div class="section-head"><div class="section-index">11</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 11</p><h2>Сделки недели</h2></div></div>
+</details>
+<details class="book-section" id="сделки-недели">
+<summary><div class="section-head"><div class="section-index">11</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 11</p><h2>Сделки недели</h2></div></div><span class="sec-toggle"><i></i></span></summary>
 <p>В таблице перечислены все разобранные сделки. Номер сделки ведёт в карточку клиента в системе amoCRM.</p>
 <div class="tw big"><table><thead><tr><th>Сделка</th><th>Менеджер</th><th>Разг.</th><th>Мин.</th><th>Балл</th><th>Кат.</th><th>Что произошло</th><th>Что сработало</th><th>Что улучшить</th></tr></thead><tbody>
 <tr><td><a href="https://eduson.amocrm.ru/leads/detail/46367212" target="_blank" rel="noopener">46367212</a></td><td>Константинова Екатерина</td><td class="n">1</td><td class="n">19,3</td><td class="n">86,0</td><td>B</td><td>Часть этапов менеджер провёл сильно, часть не довёл до конца.</td><td>Менеджер выяснил задачу и показал программу.</td><td>Менеджеру нужно держать темп и порядок разговора.</td></tr>
@@ -674,9 +687,9 @@ td .tag{font-size:10px;letter-spacing:.02em;white-space:normal;text-align:center
 <tr><td><a href="https://eduson.amocrm.ru/leads/detail/46380852" target="_blank" rel="noopener">46380852</a></td><td>Тихомирова Алина</td><td class="n">1</td><td class="n">12,1</td><td class="n">76,0</td><td>C</td><td>Менеджер ограничился анкетой и ценой, образ результата клиенту не показал. Возражение клиента осталось без ответа.</td><td>Менеджер установил контакт и рассказал о программе.</td><td>Менеджеру нужно выяснить причину сомнения клиента.</td></tr>
 <tr><td><a href="https://eduson.amocrm.ru/leads/detail/46382584" target="_blank" rel="noopener">46382584</a></td><td>Тихомирова Алина</td><td class="n">1</td><td class="n">8,8</td><td class="n">57,0</td><td>B</td><td>Часть этапов менеджер провёл сильно, часть не довёл до конца.</td><td>Менеджер выяснил задачу и показал программу.</td><td>Менеджеру нужно держать темп и порядок разговора.</td></tr>
 </tbody></table></div>
-</section>
-<section class="book-section" id="как-читать-отчёт">
-<div class="section-head"><div class="section-index">12</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 12</p><h2>Как читать отчёт</h2></div></div>
+</details>
+<details class="book-section" id="как-читать-отчёт">
+<summary><div class="section-head"><div class="section-index">12</div><div class="section-title-wrap"><p class="section-eyebrow">Раздел 12</p><h2>Как читать отчёт</h2></div></div><span class="sec-toggle"><i></i></span></summary>
 <ul>
 <li><strong>Категория A</strong> — менеджер выяснил задачу клиента, показал программу под эту задачу, ответил на возражение и предложил оплатить или забронировать место.</li>
 <li><strong>Категория B</strong> — часть этапов менеджер провёл сильно, часть не довёл до конца.</li>
@@ -689,9 +702,25 @@ td .tag{font-size:10px;letter-spacing:.02em;white-space:normal;text-align:center
 <li><strong>База сравнения</strong> — строка «Всего», то есть итог по всей команде за неделю.</li>
 <li><strong>Системный паттерн</strong> — вывод, подтверждённый более чем четырьмя сделками. Всё, что встретилось в четырёх сделках и реже, вынесено в единичные наблюдения.</li>
 </ul>
-</section>
+</details>
 </div>
 <script>
+function openTarget(){
+  var id=decodeURIComponent(location.hash.slice(1));
+  if(!id) return;
+  var el=document.getElementById(id);
+  if(el && el.tagName==='DETAILS') el.open=true;
+  var d=el&&el.closest('details'); if(d) d.open=true;
+  if(el) setTimeout(function(){el.scrollIntoView();},0);
+}
+window.addEventListener('hashchange',openTarget);
+window.addEventListener('DOMContentLoaded',openTarget);
+window.addEventListener('beforeprint',function(){
+  document.querySelectorAll('details').forEach(function(d){d.dataset.wasOpen=d.open?'1':'0';d.open=true;});
+});
+window.addEventListener('afterprint',function(){
+  document.querySelectorAll('details').forEach(function(d){if(d.dataset.wasOpen==='0') d.open=false;});
+});
 function exportIpr(btn){
   var art=btn.closest('article.ipr');
   var name=art.getAttribute('data-name')||'ИПР';
