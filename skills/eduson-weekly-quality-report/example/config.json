@@ -1,0 +1,18 @@
+{
+  "team": "Анар",
+  "period": {"from": "2026-07-20", "to": "2026-07-26", "label": "2026-07-20 — 2026-07-26"},
+  "generated_at": "2026-07-29",
+  "amo_url_prefix": "https://eduson.amocrm.ru/leads/detail/",
+  "metrics_fields": {
+    "manager": "Менеджер", "clients": "Лиды", "c2": "C2", "c2_catalog": "C2 Каталога",
+    "sales": "Продажи", "revenue": "Выручка", "avg_check": "Ср. чек",
+    "revenue_per_client": "Выручка на лид", "total_row": "Всего"
+  },
+  "thresholds": {
+    "min_clients": 10,
+    "revenue_ratio": 0.95,
+    "okk_gap": 2.0,
+    "pattern_deals": 4,
+    "gap_pct": 30
+  }
+}
